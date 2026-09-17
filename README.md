@@ -25,3 +25,6 @@ In telecom, acquiring new customers is significantly more expensive than retaini
 ## Key Business Outcomes
 - Evaluates models using **Precision, Recall, and ROC-AUC** metrics tailored for imbalanced retention datasets.
 - Generates automated risk percentages for customer relationship management (CRM) workflows.
+
+
+*Project developed for Data Science Portfolio & CWIE Personal Branding.*
